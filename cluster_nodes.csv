@@ -15,8 +15,8 @@ cap11,amit,,To be OpenStack compute
 cap12,amit,Offline,To be OpenStack compute
 cap13,navin,Installed Ubuntu Server 16.04.1. Paired with cap14 to generate bare metal data,To be OpenStack compute
 cap14,xb,Installed Ubuntu Server 16.04.1. Paired with cap13, down
-cap15,xb,Installed Ubuntu Server 16.04.1. Paired with cap16 to generate Docker/DockerV data,To be OpenStack compute, Ldap
-cap16,xb,Installed Ubuntu Server 16.04.1. Paired with cap15,To be OpenStack compute, down
+cap15,xb,Installed Ubuntu Server 16.04.1. Ldap,To be OpenStack compute 
+cap16,xb,Installed Ubuntu Server 16.04.1. Down,To be OpenStack compute 
 cap17,xb,Installed Ubuntu Server 16.04.1 Paired with cap20 to generate VM data,The HDD Amit was using is moved to cap23. Probably dead. Haven't double checked.
 cap18,amit,,
 cap19,amit,,
