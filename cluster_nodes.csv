@@ -13,7 +13,7 @@ cap09,amit,To be OpenStack compute,Down
 cap10,lianjie,,TBD
 cap11,amit,14.04 Low Latency, Purdue@
 cap12,amit,14.04,12
-cap13,navin,Installed Ubuntu Server 16.04.1. Paired with cap14 to generate bare metal data,To be OpenStack compute
+cap13,navin,Installed Ubuntu Server 16.04.1. Paired with cap14 to generate bare metal data,NA
 cap14,xb,Installed Ubuntu Server 16.04.1. Paired with cap13, down
 cap15,amit,Installed Ubuntu Server 16.04.1, Ldap 
 cap16,xb,Installed Ubuntu Server 16.04.1, Down
