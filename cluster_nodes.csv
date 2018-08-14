@@ -3,9 +3,9 @@ ohio,amit,dock primary,lb
 wabash,lianjie,OpenStack controller,openstack/openstack@b13
 cap01,lianjie,OpenStack network,openstack/openstack@b13
 cap02,lianjie,OpenStack compute,openstack/openstack@b13
-cap03,amit,,To be OpenStack compute
-cap04,amit,To be OpenStack compute,12
-cap05,amit,To be OpenStack compute,12
+cap03,amit/xb,,To be OpenStack compute
+cap04,amit/xb,To be OpenStack compute,12
+cap05,amit/xb,To be OpenStack compute,12
 cap06,navin,,To be OpenStack compute
 cap07,xb/amit,, Ldap
 cap08,xb,,Down
