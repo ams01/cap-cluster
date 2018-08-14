@@ -15,9 +15,9 @@ cap11,amit,,To be OpenStack compute
 cap12,amit,Offline,To be OpenStack compute
 cap13,navin,Installed Ubuntu Server 16.04.1. Paired with cap14 to generate bare metal data,To be OpenStack compute
 cap14,xb,Installed Ubuntu Server 16.04.1. Paired with cap13, down
-cap15,xb,Installed Ubuntu Server 16.04.1, Ldap 
+cap15,amit,Installed Ubuntu Server 16.04.1, Ldap 
 cap16,xb,Installed Ubuntu Server 16.04.1, Down
-cap17,xb,Installed Ubuntu Server 16.04.1 Paired with cap20 to generate VM data,Ldap
+cap17,amit,Installed Ubuntu Server 16.04.1 Paired with cap20 to generate VM data,Ldap
 cap18,amit,SIPp,Ldap
 cap19,amit,SIPp,13
 cap20,xb,Installed Ubuntu Server 16.04.1 Paired with cap17 to generate VM data, Ldap
