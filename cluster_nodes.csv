@@ -3,31 +3,31 @@ ohio,amit,dock primary,lb
 wabash,lianjie,OpenStack controller,openstack/openstack@b13
 cap01,lianjie,OpenStack network,openstack/openstack@b13
 cap02,lianjie,OpenStack compute,openstack/openstack@b13
-cap03,amit,Used to pair with cap09 to generate Suricata data. Amit made changes later,To be OpenStack compute
+cap03,amit,,To be OpenStack compute
 cap04,amit,To be OpenStack compute,12
 cap05,amit,To be OpenStack compute,12
-cap06,navin,Paired with cap07 to generate SR-IOV/VFIO data. Amit might have made software changes,To be OpenStack compute
-cap07,xb/amit,Paired with cap07 to generate SR-IOV/VFIO data, Ldap
-cap08,xb,The machine to host generated data sets,Down
-cap09,amit,To be OpenStack compute,Down
+cap06,navin,,To be OpenStack compute
+cap07,xb/amit,, Ldap
+cap08,xb,,Down
+cap09,amit,,Down
 cap10,lianjie,,TBD
 cap11,amit,14.04 Low Latency, Purdue@
 cap12,amit,14.04,12
-cap13,navin,Installed Ubuntu Server 16.04.1. Paired with cap14 to generate bare metal data,TBD
-cap14,xb,Installed Ubuntu Server 16.04.1. Paired with cap13, down
-cap15,amit,Installed Ubuntu Server 16.04.1, Ldap 
+cap13,navin,Installed Ubuntu Server 16.04.1,TBD
+cap14,xb,Installed Ubuntu Server 16.04., Down
+cap15,amit,Installed Ubuntu Server 16.04.1,Ldap 
 cap16,xb,Installed Ubuntu Server 16.04.1, Down
-cap17,amit,Installed Ubuntu Server 16.04.1 Paired with cap20 to generate VM data,Ldap
+cap17,amit,Installed Ubuntu Server 16.04.1,Ldap
 cap18,amit,SIPp,Ldap
 cap19,amit,SIPp,13
-cap20,xb,Installed Ubuntu Server 16.04.1 Paired with cap17 to generate VM data, Ldap
-cap21,xb,Installed Ubuntu Server 16.04.1 Paired with cap22 to generate VM/VFIO data,Ldap
-cap22,navin,Installed Ubuntu Server 16.04.1 Paired with cap21 to generate VM/VFIO data,
+cap20,xb,Installed Ubuntu Server 16.04.1, Ldap
+cap21,xb,Installed Ubuntu Server 16.04.1,Ldap
+cap22,navin,Installed Ubuntu Server 16.04.1,-
 cap23,,Offline.No HDD.,Down
 cap24,adil,Fresh Ubuntu Server 16.04.1, Down
-cap25,Samuel,Ubuntu 14.04.5 LTS, NA
-cap26,haleema,Fresh Ubuntu Server 16.04.1, NA
-cap27,haleema,Fresh Ubuntu Server 16.04.1, NA
+cap25,Samuel,Ubuntu 14.04.5 LTS, Reinstall
+cap26,haleema,Fresh Ubuntu Server 16.04.1, Reinstall
+cap27,haleema,Fresh Ubuntu Server 16.04.1, Reinstall
 cap28,,Offline.KVM failure.Maybe fixable.,Down
 cap29,,Offline.(No public network?),Down
 cap30,,Offline.Grub issue.,Down
