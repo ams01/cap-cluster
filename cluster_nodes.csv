@@ -9,7 +9,7 @@ cap05,amit,To be OpenStack compute,12
 cap06,navin,Paired with cap07 to generate SR-IOV/VFIO data. Amit might have made software changes,To be OpenStack compute
 cap07,xb/amit,Paired with cap07 to generate SR-IOV/VFIO data. Ldap,To be OpenStack compute
 cap08,xb,The machine to host generated data sets,To be OpenStack compute - down
-cap09,amit,To be OpenStack compute - down
+cap09,amit,To be OpenStack compute,down
 cap10,lianjie,,To be OpenStack compute
 cap11,amit,,To be OpenStack compute
 cap12,amit,Offline,To be OpenStack compute
