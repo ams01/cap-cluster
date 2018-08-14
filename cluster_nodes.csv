@@ -18,8 +18,8 @@ cap14,xb,Installed Ubuntu Server 16.04.1. Paired with cap13, down
 cap15,xb,Installed Ubuntu Server 16.04.1, Ldap 
 cap16,xb,Installed Ubuntu Server 16.04.1, Down
 cap17,xb,Installed Ubuntu Server 16.04.1 Paired with cap20 to generate VM data,The HDD Amit was using is moved to cap23. Probably dead. Haven't double checked.
-cap18,amit,,
-cap19,amit,,
+cap18,amit,Ldap,
+cap19,amit,13,
 cap20,xb,Installed Ubuntu Server 16.04.1 Paired with cap17 to generate VM data, Ldap
 cap21,xb,Installed Ubuntu Server 16.04.1 Paired with cap22 to generate VM/VFIO data,Ldap
 cap22,navin,Installed Ubuntu Server 16.04.1 Paired with cap21 to generate VM/VFIO data,
