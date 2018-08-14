@@ -4,12 +4,12 @@ wabash,lianjie,OpenStack controller,
 cap01,lianjie,OpenStack network, 
 cap02,lianjie,OpenStack compute,
 cap03,amit,Used to pair with cap09 to generate Suricata data. Amit made changes later,To be OpenStack compute
-cap04,amit,,To be OpenStack compute,12
-cap05,amit,,To be OpenStack compute,12
+cap04,amit,To be OpenStack compute,12
+cap05,amit,To be OpenStack compute,12
 cap06,navin,Paired with cap07 to generate SR-IOV/VFIO data. Amit might have made software changes,To be OpenStack compute
 cap07,xb/amit,Paired with cap07 to generate SR-IOV/VFIO data. Amit might have made software changes,To be OpenStack compute, Ldap
 cap08,xb,The machine to host generated data sets,To be OpenStack compute - down
-cap09,amit,,To be OpenStack compute - down
+cap09,amit,To be OpenStack compute - down
 cap10,lianjie,,To be OpenStack compute
 cap11,amit,,To be OpenStack compute
 cap12,amit,Offline,To be OpenStack compute
