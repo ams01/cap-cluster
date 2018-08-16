@@ -1,5 +1,5 @@
 Hostname,User,Usage,Status,User account,Note
-ohio,amit,Docker primary,UP,nsl,lb
+ohio,amit,Docker primary,UP,nsl/root,lb
 wabash,lianjie,OpenStack controller,UP,openstack,openstack@b13
 cap01,lianjie,OpenStack network,UP,openstack,openstack@b13
 cap02,lianjie,OpenStack compute,UP,openstack,openstack@b13
