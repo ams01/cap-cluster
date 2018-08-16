@@ -6,7 +6,7 @@ cap02,lianjie,OpenStack compute,UP,openstack,openstack@b13
 cap03,amit/xb,,DOWN,bu1/root,
 cap04,amit/xb,,UP,bu1/root,12
 cap05,amit/xb,Docker Swarm Worker 2,UP,bu1/root,12
-cap06,navin,,UP,,To be OpenStack compute
+cap06,navin,,UP,,
 cap07,xb/amit,Docker Swarm Worker 1,UP,bu1/root,Ldap
 cap08,xb,,DOWN,-,-
 cap09,amit,,DOWN,-,-
