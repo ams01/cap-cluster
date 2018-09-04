@@ -31,10 +31,10 @@ cap27,haleema,,Psw Unknown,-,-
 cap28,NA,Offline.KVM failure.Maybe fixable.,DOWN,-,-
 cap29,NA,Offline.(No public network?),DOWN,-,-
 cap30,NA,Offline.Grub issue.,DOWN,-,-
-cap31,lianjie,MaxiNet exp.,UP,cao,maxinet
-cap32,lianjie,MaxiNet exp.,UP,-,-
-cap33,lianjie,MaxiNet exp.,UP,-,-
-cap34,lianjie,MaxiNet exp.,UP,-,-
+cap31,palash,MaxiNet exp.,UP,cao,maxinet
+cap32,palash,MaxiNet exp.,UP,cao,-
+cap33,JoLin,MaxiNet exp.,UP,-,-
+cap34,JoLin,MaxiNet exp.,UP,-,-
 cap35,lianjie,MaxiNet exp.,UP,-,-
 cap36,lianjie,MaxiNet exp.,UP,-,-
 
